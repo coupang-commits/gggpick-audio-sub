@@ -1,22 +1,22 @@
 {
     "domain": "audio.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "블루투스 스피커",
+        "헤드폰 및 이어폰",
+        "사운드바"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang audio items."
+        "블루투스 스피커": {
+            "topic": "Portable speakers, waterproof speakers, party speakers.",
+            "role": "Audio equipment expert."
         },
-        "수유/이유식": {
-            "topic": "audio bottle sterilizers, audio food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "헤드폰 및 이어폰": {
+            "topic": "Noise-canceling headphones, wireless earbuds.",
+            "role": "Personal audio reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "사운드바": {
+            "topic": "TV soundbars, home theater speakers, subwoofers.",
+            "role": "Home audio curator."
         }
     }
 }
